@@ -33,4 +33,4 @@ More information can be found on the official Piwik website at http://piwik.org
 
     That's it, you can now checkout your application at:
 
-        /http://piwik-ose.user30.onopenshift.com/
+        http://piwik-ose.user30.onopenshift.com/
